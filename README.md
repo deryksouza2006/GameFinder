@@ -108,6 +108,3 @@ Depois acesse a API em:
 http://localhost:8080/games
 ```
 
-## Observação
-
-O projeto foi montado com uma base de dados própria em português, mantendo a proposta de catálogo de jogos e a aplicação dos conceitos de API REST com HATEOAS.
